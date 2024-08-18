@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on **DCKAP Palli**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **React Js and Php(Laravel)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hari](https://github.com/hari)
 
